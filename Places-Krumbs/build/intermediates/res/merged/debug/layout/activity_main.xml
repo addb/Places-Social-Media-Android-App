@@ -1,0 +1,97 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#EFF8FB"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/cardrecycle"
+        android:layout_weight="0.45">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <!--<TextView
+        android:id="@+id/output"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="Krumbs Feed" />
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/output"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="43dp" />-->
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/buttonBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#000000"
+        android:layout_weight="1.0">
+
+        <ImageButton
+            android:id="@+id/utility"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:layout_weight="1.0"
+            android:padding="70dp"
+            android:src="@drawable/composer_place"
+            android:onClick="startUtility"
+            android:text="Utility" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/kcapturebutton"
+            android:background="@null"
+            android:src="@drawable/ic_launcher"
+            android:layout_weight="1.0"
+            android:onClick="startCameraView"
+            android:padding="70dp"
+            android:text="@string/kcapturebuttonLabel"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton"
+            android:padding="70dp"
+            android:background="@null"
+            android:onClick="startWiki"
+            android:src="@drawable/emoji_1f6a9"
+            android:layout_weight="1.0" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/search"
+            android:padding="70dp"
+            android:background="@null"
+            android:layout_weight="1.0"
+            android:onClick="startSearch"
+            android:src="@drawable/ic_search_white_48dp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

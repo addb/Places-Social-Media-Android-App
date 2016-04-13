@@ -1,0 +1,421 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:6:1-53:12
+	xmlns:android
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:6:11-69
+	package
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:7:5-36
+		INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+		INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+		INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+		INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:9:5-67
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:21:5-67
+MERGED from [com.mixpanel.android:mixpanel-android:4.7.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.7.0\AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:10:5-79
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:12:5-79
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:18:5-79
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:13:5-81
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:15:5-81
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:14:5-81
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:15:22-78
+application
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:17:5-51:19
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:28:5-44:19
+MERGED from [com.mixpanel.android:mixpanel-android:4.7.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.7.0\AndroidManifest.xml:44:5-124:19
+MERGED from [com.google.android.gms:play-services-location:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:26:5-69:19
+MERGED from [com.android.support:preference-v7:23.0.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\preference-v7\23.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.github.johnkil.android-robototextview:robototextview:2.4.3] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.github.johnkil.android-robototextview\robototextview\2.4.3\AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.karumi:dexter:2.2.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.karumi\dexter\2.2.1\AndroidManifest.xml:26:5-31:19
+MERGED from [com.android.support:design:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:21:9-51
+	android:theme
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:22:9-47
+	android:largeHeap
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:18:9-43
+	tools:ignore
+		ADDED from [com.mixpanel.android:mixpanel-android:4.7.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.7.0\AndroidManifest.xml:44:18-44
+meta-data#io.krumbs.sdk.APPLICATION_ID
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:23:9-25:56
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:24:13-56
+	android:value
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:25:13-53
+meta-data#io.krumbs.sdk.CLIENT_KEY
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:26:9-28:60
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:27:13-52
+	android:value
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:28:13-57
+activity#io.krumbs.sdk.starter.MainActivity
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:31:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:35:27-74
+activity#io.krumbs.sdk.starter.SearchableActivity
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:38:9-39:20
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:38:19-53
+activity#io.krumbs.sdk.starter.FourSquareActivity
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:40:9-43:16
+	android:label
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:42:9-50
+	android:theme
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:41:9-47
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:40:19-53
+activity#io.krumbs.sdk.starter.FourSquareSearchActivity
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:46:13-41
+	android:theme
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:45:13-51
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:44:19-59
+activity#io.krumbs.sdk.starter.StartCameraActivity
+ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:48:9-50:20
+	android:theme
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml:48:19-54
+uses-sdk
+INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mixpanel.android:mixpanel-android:4.7.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.7.0\AndroidManifest.xml:11:5-14:42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:preference-v7:23.0.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\preference-v7\23.0.0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [ch.acra:acra:4.7.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\ch.acra\acra\4.7.0\AndroidManifest.xml:37:5-72
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.github.johnkil.android-robototextview:robototextview:2.4.3] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.github.johnkil.android-robototextview\robototextview\2.4.3\AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.karumi:dexter:2.2.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.karumi\dexter\2.2.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.0.0-alpha1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+		INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+		INJECTED from F:\krumbs\KrumbsSDKStarterProject\src\main\AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.mixpanel.android:mixpanel-android:4.7.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.7.0\AndroidManifest.xml:14:9-39
+uses-permission#android.permission.CAMERA
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:12:5-65
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:15:5-71
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.ACCESS_GPS
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:16:22-66
+uses-permission#android.permission.BLUETOOTH
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:20:22-65
+uses-feature#android.hardware.camera
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:23:5-60
+MERGED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:25:9-57
+meta-data#com.mixpanel.android.MPConfig.FlushInterval
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:31:9-33:34
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:32:13-71
+	android:value
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:33:13-31
+meta-data#com.mixpanel.android.MPConfig.EnableDebugLogging
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:34:9-36:36
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:35:13-76
+	android:value
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:36:13-33
+meta-data#com.google.android.geo.API_KEY
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:37:9-39:54
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:38:13-58
+	android:value
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:39:13-51
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:41:9-43:38
+	android:enabled
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from [io.krumbs.sdk:krumbs-sdk:1.0.7.5-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.sdk\krumbs-sdk\1.0.7.5-SNAPSHOT\AndroidManifest.xml:42:13-93
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:22:13-58
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:23:13-66
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:22:5-24:33
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:24:8-31
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:23:8-40
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:28:7-31:37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:31:11-35
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:29:11-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:41:7-44:37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:44:11-35
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:43:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:42:11-82
+supports-screens
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:11:5-16:40
+	android:largeScreens
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:13:9-36
+	android:anyDensity
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:12:9-34
+	android:normalScreens
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:16:9-37
+	android:smallScreens
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:15:9-36
+uses-feature#android.hardware.microphone
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:24:19-61
+activity#net.sourceforge.opencamera.Widgets.TakePhoto
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:31:9-39:20
+	android:screenOrientation
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:37:13-50
+	android:label
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:36:13-47
+	android:icon
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:35:13-60
+	android:configChanges
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:33:13-74
+	android:excludeFromRecents
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:34:13-46
+	android:taskAffinity
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:32:13-72
+receiver#net.sourceforge.opencamera.Widgets.MyWidgetProvider
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:41:9-56:20
+	android:label
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:44:13-45
+	android:icon
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:42:13-79
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:45:13-47:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:46:25-81
+meta-data#android.appwidget.provider
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:53:13-55:55
+	android:resource
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:55:17-52
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:54:17-58
+receiver#net.sourceforge.opencamera.Widgets.MyWidgetProviderTakePhoto
+ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:57:9-68:20
+	android:label
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:60:13-47
+	android:icon
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:59:13-60
+	android:name
+		ADDED from [io.krumbs.opencamera:opencamera:1.0.2-SNAPSHOT] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\io.krumbs.opencamera\opencamera\1.0.2-SNAPSHOT\AndroidManifest.xml:58:13-88
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:2.2.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.karumi\dexter\2.2.1\AndroidManifest.xml:27:9-30:56
+	android:theme
+		ADDED from [com.karumi:dexter:2.2.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.karumi\dexter\2.2.1\AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from [com.karumi:dexter:2.2.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.karumi\dexter\2.2.1\AndroidManifest.xml:28:13-60
+	android:launchMode
+		ADDED from [com.karumi:dexter:2.2.1] F:\krumbs\KrumbsSDKStarterProject\build\intermediates\exploded-aar\com.karumi\dexter\2.2.1\AndroidManifest.xml:29:13-44

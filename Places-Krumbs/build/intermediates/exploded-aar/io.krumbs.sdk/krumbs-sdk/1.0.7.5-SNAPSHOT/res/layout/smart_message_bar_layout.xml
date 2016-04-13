@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/qs_dynamic_page_layout"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/msg_bar_height"
+                android:background="@android:color/transparent">
+
+    <RelativeLayout
+        android:id="@+id/qs_smrt_msg_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/msg_bar_height"
+        android:background="@color/preview_transparet_layer_color"
+        android:paddingTop="5dp">
+        <include
+                android:id="@+id/k_circle_layout"
+                layout="@layout/k_circle_view"
+                android:layout_width="@dimen/k_circle_size"
+                android:layout_alignParentLeft="true"
+                android:layout_height="@dimen/k_circle_size"/>
+
+        <TextView
+                android:id="@+id/smrt_msg_edit_pencil"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:text="@string/fa_pencil"/>
+
+        <TextView android:id="@+id/smrt_msg_textview"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_below="@id/smrt_msg_edit_pencil"
+                  android:layout_toRightOf="@id/k_circle_layout"
+                  android:gravity="center"
+                  android:layout_toLeftOf="@+id/smrt_msg_edit_pencil"
+                  android:scrollHorizontally="true"
+                  android:ellipsize="end"
+                  android:layout_centerVertical="true"
+                  android:maxLines="3"
+                  android:textColor="@color/white"
+                  android:textSize="18dp"/>
+
+        <EditText android:id="@+id/smrt_msg_editText"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_below="@id/smrt_msg_edit_pencil"
+                  android:layout_toRightOf="@id/k_circle_layout"
+                  android:background="@android:color/transparent"
+                  android:gravity="center"
+                  android:layout_centerVertical="true"
+                  android:layout_marginTop="2dp"
+                  android:inputType="textMultiLine"
+                  android:visibility="invisible"
+                  android:layout_toLeftOf="@+id/smrt_msg_edit_pencil"
+                  android:textColor="@color/white"
+                  android:textSize="18dp"/>
+    </RelativeLayout>
+</RelativeLayout>

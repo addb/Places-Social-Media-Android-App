@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="krumbssdk_app_id"></string>
+    <string name="krumbssdk_client_key"></string>
+
+    <string name="app_name">Places</string>
+    <string name="places_feed">Places Feed</string>
+
+    <string name="businesses_nearby">Places - Nearby Businesses</string>
+
+    <string name="app_label">Places</string>
+    <string name="search_hint">search for places</string>
+    <string name="hello_world">Places</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+
+
+</resources>

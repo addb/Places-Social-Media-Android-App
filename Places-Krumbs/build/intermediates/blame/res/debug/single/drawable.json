@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\k_circle_emot_style.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\k_circle_emot_style.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowleft_insets.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_arrowleft_insets.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\krumbs_switch_selector.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\krumbs_switch_selector.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_checkmark_states.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_checkmark_states.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowright_insets.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_arrowright_insets.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_first_states.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_choice_first_states.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_bckgrnd_fill_camera.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\emoji_bckgrnd_fill_camera.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_cta_button.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_cta_button.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_nocolor_list.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_nocolor_list.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_rec_stop_button.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\audio_rec_stop_button.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_text_answer_border.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_text_answer_border.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_cta_button_highlight.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_cta_button_highlight.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\k_circle_event_style.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\k_circle_event_style.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\k_circle_people_style.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\k_circle_people_style.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_middle_states.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_choice_middle_states.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowleft_states.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_arrowleft_states.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\k_circle_location_style.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\k_circle_location_style.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_top_button_background_style.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\camera_top_button_background_style.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowright_states.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_arrowright_states.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\krumbs_switch_track.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\krumbs_switch_track.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_rec_progress_bar_style.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\audio_rec_progress_bar_style.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\take_photo_selector.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\drawable\\take_photo_selector.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\take_video_selector.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\drawable\\take_video_selector.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_last_states.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable\\com_mixpanel_android_choice_last_states.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji_border_ring_camera.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\drawable\\emoji_border_ring_camera.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    }
+]

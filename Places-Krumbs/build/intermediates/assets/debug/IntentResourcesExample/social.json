@@ -1,0 +1,108 @@
+{
+    "intents": [
+                {
+                "Friends & Family": {
+                "synonyms": [
+                             "Friends & Family",
+                             "Familyfirst",
+                             "Crazybunch",
+                             "Familytime",
+                             "Familyovereverything",
+                             "Bff",
+                             "Friendsforever",
+                             "Friendsforlife",
+                             "Bestfriends",
+                             "Itsnotjustabadgeitsawayoflife",
+                             "Besties",
+                             "Lunaticfringe",
+                             "Weirdos",
+                             "Cousins",
+                             "Sisters",
+                             "Gang",
+                             "Gangfamily",
+                             "Godisgood",
+                             "Blessed",
+                             "Thankful",
+                             "Bonding",
+                             "Fam",
+                             "Familyfun",
+                             "Family",
+                             "Lovethem",
+                             "Funtimes"
+                             ],
+                "unicode": "1f46a",
+                "expression_id": 1,
+                "resource_name": "emoji_1f46a"
+                }
+                },
+                {
+                "Surprised": {
+                "synonyms": [
+                             "Surprised",
+                             "Seriously",
+                             "Wow",
+                             "Wtf",
+                             "Hilarious",
+                             "Weird",
+                             "Gosh"
+                             ],
+                "unicode": "1f603",
+                "expression_id": 2,
+                "resource_name": "emoji_1f603"
+                }
+                },
+                {
+                "Yawn": {
+                "synonyms": [
+                             "Yawn",
+                             "Iambored",
+                             "Facepalm",
+                             "Saveme",
+                             "Help!",
+                             "Fail"
+                             ],
+                "unicode": "1f634",
+                "expression_id": 3,
+                "resource_name": "emoji_1f634"
+                }
+                },
+                {
+                "Funny": {
+                "synonyms": [
+                             "Funny",
+                             "Haha",
+                             "Lol",
+                             "Craziness",
+                             "Funnystuff",
+                             "Lmao",
+                             "Rofl",
+                             "Lmfao",
+                             "Humor",
+                             "Witty",
+                             "Wacky",
+                             "Silly",
+                             "Ctfu"
+                             ],
+                "unicode": "1f61c",
+                "expression_id": 4,
+                "resource_name": "emoji_1f61c"
+                }
+                },
+                {
+                "Celebrate": {
+                "synonyms": [
+                             "Celebrate",
+                             "Happybirthday",
+                             "Graduation",
+                             "Wedding",
+                             "Anniversary",
+                             "Babyshower",
+                             "Party"
+                             ],
+                "unicode": "1f44f",
+                "expression_id": 5,
+                "resource_name": "emoji_1f44f"
+                }
+                }
+                ]
+}

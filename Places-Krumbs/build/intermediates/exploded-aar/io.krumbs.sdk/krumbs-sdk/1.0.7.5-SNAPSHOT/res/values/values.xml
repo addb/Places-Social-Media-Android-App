@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar">#90000000</color>
+    <color name="aquamarine">#4E78A0</color>
+    <color name="audio_recording_bckground">#333333</color>
+    <color name="audio_stop_button_color">#fe0000</color>
+    <color name="audio_timer_text">#999999</color>
+    <color name="black">#000000</color>
+    <color name="blck_25_opacity">#40000000</color>
+    <color name="blck_40_opacity">#66000000</color>
+    <color name="blue">#0198E1</color>
+    <color name="cerulean_blue">#9BC4E2</color>
+    <color name="cyan_accent_color">#009775</color>
+    <color name="cyan_dark">#2e9e68</color>
+    <color name="cyan_divider_color">#B6B6B6</color>
+    <color name="cyan_light_primary_color">#B2EBF2</color>
+    <color name="cyan_primary_text_color">#212121</color>
+    <color name="cyan_secondary_text_color">#727272</color>
+    <color name="cyan_text_icon_color">#FFFFFF</color>
+    <color name="dark_grey_color_dflt_image_background">#727272</color>
+    <color name="dialog_header_light_blue">#00A0E1</color>
+    <color name="emot_background_color">#fed3a7</color>
+    <color name="emot_orange">#f57c00</color>
+    <color name="event_background_color">#f4befd</color>
+    <color name="event_pink">#d500f9</color>
+    <color name="fab_button_color">#F5A623</color>
+    <color name="green">#01DF01</color>
+    <color name="green_dark">#31B404</color>
+    <color name="grey">#d7d7d7</color>
+    <color name="grid_state_focused">#777dbcd3</color>
+    <color name="grid_state_pressed">#BB7dbcd3</color>
+    <color name="hint_gray">#ffa1a1a1</color>
+    <color name="indigo_A200">#536dfe</color>
+    <color name="indigo_A400">#3d5afe</color>
+    <color name="k_circle_count_color">#5e5e5e</color>
+    <color name="k_factory_list_box_border_color">#b5b5b6</color>
+    <color name="k_gallery_background_color">#eeeeee</color>
+    <color name="kfactory_audio">#ff3d00</color>
+    <color name="kfactory_emotion">#ffd54f</color>
+    <color name="kfactory_events">#d500f9</color>
+    <color name="kfactory_loc">#43a047</color>
+    <color name="kfactory_people">#1e88e5</color>
+    <color name="krumbs_camera_green">#059c7a</color>
+    <color name="krumbs_camera_green_trans">#33059c7a</color>
+    <color name="krumbs_green">#009775</color>
+    <color name="krumbs_green_midum_trancy_">#99009775</color>
+    <color name="krumbs_grey">#3c4540</color>
+    <color name="krumbs_red">#ff5253</color>
+    <color name="krumbs_red_dark">#b13d3d</color>
+    <color name="krumbs_tag_background_gray">#D3D3D3</color>
+    <color name="krumbs_title">#ff4d4d4d</color>
+    <color name="light_blue">#ADD8E6</color>
+    <color name="light_gray">#ededed</color>
+    <color name="lime">#CDDC39</color>
+    <color name="location_background_color">#bdfec0</color>
+    <color name="location_green">#53ca3e</color>
+    <color name="opaque_back">#29000000</color>
+    <color name="people_background_color">#bdeaff</color>
+    <color name="people_blue">#03a9f4</color>
+    <color name="preview_transparet_layer_color">#99000000</color>
+    <color name="primary">#03A9F4</color>
+    <color name="primaryDark">#0288D1</color>
+    <color name="red_dark_primary_color">#D32F2F</color>
+    <color name="tab_unselected">#D8D8D8</color>
+    <color name="teal_accent_color">#009688</color>
+    <color name="theme_del_bar_light">#99536dfe</color>
+    <color name="theme_primary_light">#663f51b5</color>
+    <color name="transparent_black">#11000000</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="audio_delete_icon_height">18dp</dimen>
+    <dimen name="audio_delete_icon_widtht">20dp</dimen>
+    <dimen name="audio_playpause_size">18dp</dimen>
+    <dimen name="audio_rec_button_size">70dp</dimen>
+    <dimen name="default_background_stroke_width">3dp</dimen>
+    <dimen name="default_stroke_width">7dp</dimen>
+    <dimen name="intent_panel_height">160dp</dimen>
+    <dimen name="k_circle_extra_pading">10dp</dimen>
+    <dimen name="k_circle_flower_size">100dp</dimen>
+    <dimen name="k_circle_krumbs_icon_padding">4dp</dimen>
+    <dimen name="k_circle_margin">4dp</dimen>
+    <dimen name="k_circle_margin_5">5dp</dimen>
+    <dimen name="k_circle_margin_offset">2dp</dimen>
+    <dimen name="k_circle_margin_short_offset">1dp</dimen>
+    <dimen name="k_circle_pading">4dp</dimen>
+    <dimen name="k_circle_size">140dp</dimen>
+    <dimen name="k_circle_sqr_size">90dp</dimen>
+    <dimen name="k_circle_tag_height">24dp</dimen>
+    <dimen name="k_circle_tag_width">24dp</dimen>
+    <dimen name="kcamera_preview_bottom_bar_height">115dp</dimen>
+    <dimen name="kcamera_retake_button_size">26dp</dimen>
+    <dimen name="msg_bar_height">120dp</dimen>
+    <dimen name="playbck_bottom_margin">15dp</dimen>
+    <dimen name="playbck_margin">2dp</dimen>
+    <dimen name="retake_bottom_margin">15dp</dimen>
+    <dimen name="retake_left_margin">25dp</dimen>
+    <dimen name="retake_top_margin">65dp</dimen>
+    <dimen name="save_button_size">70dp</dimen>
+    <item name="intnet_panel_composite_parent" type="id"/>
+    <item name="krumbs_intent_category_name" type="id"/>
+    <item name="krumbs_intent_name" type="id"/>
+    <item name="krumbs_intent_synonym" type="id"/>
+    <string name="all_permissions_denied_feedback">All those permissions are needed for Krumbs Capture</string>
+    <string name="app_name">krumbscamera</string>
+    <string name="audio_rec_mode">Audio recording mode</string>
+    <string name="camera_menu_title">Camera</string>
+    <string name="camera_preview_stack">Photo Preview Stack</string>
+    <string name="camera_switch">Switch Camera</string>
+    <string name="crash_dialog_comment_prompt">You might want to add your own comment about the error below.</string>
+    <string name="crash_dialog_text">An unexpected error has caused the application to force stop. Please help us by sending the error data. All you need to do is click OK</string>
+    <string name="crash_dialog_title">KrumbsCamera Crashed !</string>
+    <string name="fa_microphone"></string>
+    <string name="fa_microphone_slash"></string>
+    <string name="fa_pause"></string>
+    <string name="fa_pencil"></string>
+    <string name="fa_play"></string>
+    <string name="fa_refresh"></string>
+    <string name="fa_trash"></string>
+    <string name="google_api_key">AIzaSyAKuVZ9fOvFWIkKKT2Y7Q7OGoXABX0rhe0</string>
+    <string name="google_app_id">537907263577</string>
+    <string name="instant_share">Instant Share</string>
+    <string name="permission_rationale_message">These permissions are needed for Krumbs Capture. So please, allow it!</string>
+    <string name="permission_rationale_settings_button_text">SETTINGS</string>
+    <string name="permission_rationale_title">We need these permissions</string>
+    <string name="preview_image">Previewed image</string>
+    <string name="recording_sound">Recording Sound...</string>
+    <string name="retake">Retake</string>
+    <string name="retake_image_description">Retake image</string>
+    <string name="save_image">Save image</string>
+    <style name="ActionBarTheme_ActionBarOverlay" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowNoTitle">true</item>
+
+        <item name="android:actionBarStyle">@style/ThemeActionBar</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/ThemeActionBar</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+    <style name="AppTheme" parent="android:Theme.Light">All customizations that are NOT specific to
+        a particular API-level can go here.</style>
+    <style name="CheckBoxAppTheme">
+        <item name="android:colorAccent">
+            @color/white
+        </item>
+        <item name="android:colorControlNormal">
+            @color/white
+        </item>
+        <item name="android:colorControlHighlight">
+            @color/white
+        </item>
+    </style>
+    <style name="CustomCheckBox">
+        <item name="android:theme">@style/CheckBoxAppTheme</item>
+    </style>
+    <style name="DoneButton" parent="android:Widget.Button">
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingBottom">8dp</item>
+
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+
+        <item name="android:shadowColor">#6C6C6C</item>
+        <item name="android:shadowDx">2</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <style name="HashTagDialogTitleTheme" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <!-- For 2.x version  -->
+        <item name="android:windowAnimationStyle">@style/KrumbsAnimTheme.Window</item>
+    </style>
+    <style name="KfactoryFabColor">
+        <item name="colorAccent">@color/krumbs_green</item>
+    </style>
+    <style name="KrumbsAnimTheme.Window" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/fadein</item>
+        <item name="android:activityOpenExitAnimation">@anim/fadeout</item>
+        <item name="android:activityCloseEnterAnimation">@anim/fadein</item>
+        <item name="android:activityCloseExitAnimation">@anim/fadeout</item>
+    </style>
+    <style name="KrumbsWindowTitleBackground">
+        <item name="android:background">@color/krumbs_green</item>
+    </style>
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="Theme.AppThemeMaterialStyle">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.AppThemeMaterialStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/krumbs_green</item>
+
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/cyan_dark</item>
+
+        <!-- colorAccent is used as the default value for colorControlActivated
+             which is used to tint widgets -->
+        <item name="colorAccent">@color/cyan_accent_color</item>
+
+        <item name="android:textColorPrimary">@color/cyan_primary_text_color</item>
+
+        <item name="android:textColorSecondary">@color/cyan_secondary_text_color</item>
+
+        <item name="windowActionBar">false</item>
+
+        <!--<item name="android:windowTranslucentStatus">true</item>-->
+
+
+        <!--<item name="android:windowNoTitle">true</item>-->
+
+
+        <!-- You can also set colorControlNormal, colorControlActivated
+             colorControlHighlight & colorSwitchThumbNormal. -->
+    </style>
+    <style name="Theme.Transparent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="ThemeActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@color/action_bar</item>
+        <!-- Support library compatibility -->
+        <item name="background">@color/action_bar</item>
+    </style>
+    <style name="fabcolor">
+        <item name="colorAccent">@color/fab_button_color</item>
+    </style>
+    <style name="switch_text_appearance" parent="@android:style/TextAppearance.Holo.Small">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>

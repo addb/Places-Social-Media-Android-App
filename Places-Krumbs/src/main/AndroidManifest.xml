@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2016 Krumbs Inc.
+  ~ All rights reserved.
+  ~
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.krumbs.sdk.starter">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- Include following permission if you want to cache images on SD card -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".StarterApplication"
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:icon="@drawable/embed_places_icon"
+        android:theme="@style/MyMaterialTheme">
+        <meta-data
+            android:name="io.krumbs.sdk.APPLICATION_ID"
+            android:value="@string/krumbssdk_app_id" />
+        <meta-data
+            android:name="io.krumbs.sdk.CLIENT_KEY"
+            android:value="@string/krumbssdk_client_key" />
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SearchableActivity">
+        </activity>
+        <activity android:name=".FourSquareActivity"
+        android:theme="@style/MyMaterialTheme"
+        android:label="@string/businesses_nearby">
+    </activity>
+        <activity android:name=".FourSquareSearchActivity"
+            android:theme="@style/MyMaterialTheme"
+            android:label="You are Here">
+        </activity>
+        <activity android:name=".StartCameraActivity"
+            android:theme="@style/MyMaterialTheme.NoActionBar">
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\audio_recording_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\layout\\audio_recording_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\custom_wiki_view.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\custom_wiki_view.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\intent_holder.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\layout\\intent_holder.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_survey.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_activity_survey.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\newlayout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\layout\\newlayout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_first_choice_answer.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_first_choice_answer.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preference_information.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v7\\23.0.0\\res\\layout\\preference_information.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\custom_business_view.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\custom_business_view.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\k_circle_view.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\layout\\k_circle_view.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\kcamera_preview_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\layout\\kcamera_preview_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\krumbs_camera_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\layout\\krumbs_camera_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preference.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v7\\23.0.0\\res\\layout\\preference.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_middle_choice_answer.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_middle_choice_answer.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_notification_mini.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_activity_notification_mini.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\camera_view.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\camera_view.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_last_choice_answer.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_last_choice_answer.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_notification_full.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_activity_notification_full.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\custom_row.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\widget_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_checkbox.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v7\\23.0.0\\res\\layout\\preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preference_dialog_edittext.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v7\\23.0.0\\res\\layout\\preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\foursquare_business.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\foursquare_business.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\open_camera_activity_main.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\layout\\open_camera_activity_main.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchable.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\activity_searchable.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_question_card.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_question_card.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preference_recyclerview.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v7\\23.0.0\\res\\layout\\preference_recyclerview.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\intent_panel_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\layout\\intent_panel_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\smart_message_bar_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\layout\\smart_message_bar_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\audio_playback.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\1.0.7.5-SNAPSHOT\\res\\layout\\audio_playback.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_foursquare_wiki.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\activity_foursquare_wiki.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preference_list_fragment.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v7\\23.0.0\\res\\layout\\preference_list_fragment.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_switch_compat.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v7\\23.0.0\\res\\layout\\preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\widget_layout_take_photo.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\layout\\widget_layout_take_photo.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preference_category.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v7\\23.0.0\\res\\layout\\preference_category.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\com_mixpanel_android_rounded_top.9.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-nodpi\\com_mixpanel_android_rounded_top.9.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\com_mixpanel_android_rounded_bottom_selected.9.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-nodpi\\com_mixpanel_android_rounded_bottom_selected.9.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\com_mixpanel_android_square_selected.9.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-nodpi\\com_mixpanel_android_square_selected.9.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\com_mixpanel_android_rounded_bottom.9.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-nodpi\\com_mixpanel_android_rounded_bottom.9.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\com_mixpanel_android_rounded_top_selected.9.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-nodpi\\com_mixpanel_android_rounded_top_selected.9.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\com_mixpanel_android_square.9.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-nodpi\\com_mixpanel_android_square.9.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\com_mixpanel_android_close.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-nodpi\\com_mixpanel_android_close.png"
+    }
+]

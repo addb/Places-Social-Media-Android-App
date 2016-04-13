@@ -1,0 +1,139 @@
+{
+    "intents": [
+                {
+                "Irritated": {
+                "synonyms": [
+                             "Irritated",
+                             "Helpme",
+                             "Whyme",
+                             "Ihateshopping",
+                             "Nochance",
+                             "Getmeoutofhere",
+                             "Youoweme",
+                             "Fashionablychallenged",
+                             "Exhausted",
+                             "Thissucks",
+                             "Fashion00b",
+                             "Ugly",
+                             "Stuffyoudoforfriends",
+                             "Saveme"
+                             ],
+                "unicode": "1f616",
+                "expression_id": 1,
+                "resource_name": "emoji_1f616"
+                }
+                },
+                {
+                "Buy": {
+                "synonyms": [
+                             "Buy",
+                             "ShouldI",
+                             "Want",
+                             "Whatdoyouthink",
+                             "Shopaholic",
+                             "Weloveshopping",
+                             "Wdywt",
+                             "Whatyouwaitingfor",
+                             "Bestselling",
+                             "Ootd",
+                             "Accessoriseyourself",
+                             "Guyswithstyle",
+                             "Staystylish",
+                             "Doesthismakemelookfat",
+                             "Dressingroomconfessions",
+                             "Shoptillyoudrop",
+                             "Firstworldproblems"
+                             ],
+                "unicode": "1f4b8",
+                "expression_id": 2,
+                "resource_name": "emoji_1f4b8"
+                }
+                },
+                {
+                "Beautiful": {
+                "synonyms": [
+                             "Beautiful",
+                             "Looksamazing",
+                             "Loveit",
+                             "Classy",
+                             "Perfectforyou",
+                             "Perfectoutfit",
+                             "Youonlyliveonce",
+                             "Glamorous",
+                             "Fashiongirl",
+                             "Fashionboys",
+                             "Foreveryoung",
+                             "Outfitperfect",
+                             "Fashionista",
+                             "Trendy",
+                             "Fab",
+                             "Perfection",
+                             "Hautecouture",
+                             "Glam",
+                             "Stunning",
+                             "Fabulous",
+                             "Elegant",
+                             "Chic",
+                             "Onfleek"
+                             ],
+                "unicode": "1f525",
+                "expression_id": 3,
+                "resource_name": "emoji_1f525"
+                }
+                },
+                {
+                "Hold It": {
+                "synonyms": [
+                             "Hold It",
+                             "Saveit",
+                             "Buysoon",
+                             "Giftidea",
+                             "Surprisegift",
+                             "Giftforfriend",
+                             "Stylediaries",
+                             "Graduationgift",
+                             "Birthdaygift",
+                             "Anniversarygift",
+                             "Weddinggift"
+                             ],
+                "unicode": "1f446",
+                "expression_id": 4,
+                "resource_name": "emoji_1f446"
+                }
+                },
+                {
+                "Bargain": {
+                "synonyms": [
+                             "Bargain",
+                             "Checkthisout",
+                             "Whatasteal",
+                             "Dontjudge",
+                             "Affordablefashion",
+                             "Shopgenius",
+                             "Savemoregetmore",
+                             "Cheapfinds",
+                             "Trendyforcheap",
+                             "Moneyhoarder",
+                             "Fleamarket",
+                             "Mybuyisbetter",
+                             "Moreforless",
+                             "Thrifting",
+                             "Thriftqueen",
+                             "Thriftking",
+                             "Thriftaddict",
+                             "Thriftstore",
+                             "Reduce",
+                             "Discount",
+                             "Neverpayretail",
+                             "Designerresale",
+                             "Shoegasm",
+                             "Bargainhunting",
+                             "Bargainshopper"
+                             ],
+                "unicode": "1f62e",
+                "expression_id": 5,
+                "resource_name": "emoji_1f62e"
+                }
+                }
+                ]
+}

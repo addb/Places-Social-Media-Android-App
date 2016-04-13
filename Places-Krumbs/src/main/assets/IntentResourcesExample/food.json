@@ -1,0 +1,110 @@
+{
+  "intents": [
+    {
+      "Healthy Food": {
+        "synonyms": [
+          "Healthy Food",
+          "Healthy",
+          "Cleaneating",
+          "Vegan",
+          "Greens",
+          "Diet",
+          "Fitness",
+          "Weightloss",
+          "Motivation",
+          "Fitfam",
+          "Eatclean"
+        ],
+        "unicode": "1f351",
+        "expression_id": 4,
+        "resource_name": "emoji_1f351"
+      }
+    },
+    {
+      "Junk Food": {
+        "synonyms": [
+          "Junk Food",
+          "Guiltypleasures",
+          "Carbs",
+          "Cheatday",
+          "Guiltfree",
+          "Trashfood",
+          "Fries",
+          "Dessert",
+          "Livethelittlethings",
+          "Foodporn",
+          "Unhealthyfood"
+        ],
+        "unicode": "1f35f",
+        "expression_id": 5,
+        "resource_name": "emoji_1f35f"
+      }
+    },
+    {
+      "Yum": {
+        "synonyms": [
+          "Yum",
+          "Tasty",
+          "Yummy",
+          "Hungry",
+          "Craving",
+          "Foodporn",
+          "Delish",
+          "Delicious",
+          "Foodgasm",
+          "Nomnim",
+          "Foodie",
+          "Foodpic",
+          "Lovefood",
+          "Sweettooth",
+          "Dessertporn"
+        ],
+        "unicode": "1f60b",
+        "expression_id": 2,
+        "resource_name": "emoji_1f60b"
+      }
+    },
+    {
+      "Drinking": {
+        "synonyms": [
+          "Drinking",
+          "Enjoyingcoffee",
+          "Thirsty",
+          "Goodtimes",
+          "Happyhour",
+          "Sundayfunday",
+          "Enjoyingdrinks",
+          "Tipsy",
+          "Enjoyingcocktail",
+          "Nothingtodo",
+          "Slurp",
+          "Drinkup",
+          "Drunk"
+        ],
+        "unicode": "1f379",
+        "expression_id": 3,
+        "resource_name": "emoji_1f379"
+      }
+    },
+    {
+      "Dislike": {
+        "synonyms": [
+          "Dislike",
+          "Hate",
+          "Eww",
+          "Yucky",
+          "Disgusting",
+          "Ugh",
+          "Gross",
+          "Nasty",
+          "Ew",
+          "Donteatit",
+          "Junk"
+        ],
+        "unicode": "1f44e",
+        "expression_id": 1,
+        "resource_name": "emoji_1f44e"
+      }
+    }
+  ]
+}

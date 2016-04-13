@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/audio_rec_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerInParent="true">
+
+    <com.devspark.robototextview.widget.RobotoTextView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:text="@string/recording_sound"
+            android:layout_width="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/hint_gray"
+            android:layout_height="wrap_content"
+            app:fontFamily="roboto"
+            android:id="@+id/audio_rec_label"
+            app:textWeight="normal"
+            app:textStyle="normal"/>
+
+    <RelativeLayout
+            android:id="@+id/audio_rec_progress_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/audio_rec_button_size"
+            android:layout_below="@id/audio_rec_label"
+            android:layout_centerVertical="true"
+            android:layout_centerInParent="true">
+
+        <io.krumbs.sdk.krumbscapture.audio.CircularProgressBar
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/audio_circular_progressbar"
+                android:layout_width="@dimen/audio_rec_button_size"
+                android:layout_height="@dimen/audio_rec_button_size"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/audio_rec_progress_bar_style"
+                android:layout_marginBottom="2dp"
+                app:background_progressbar_color="@color/white"
+                app:background_progressbar_width="7dp"
+                android:layout_centerInParent="true"
+                app:progressbar_color="@color/audio_stop_button_color"
+                app:progressbar_width="7dp"/>
+
+        <ImageButton
+                android:id="@+id/audio_rec_stop_button"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/audio_rec_stop_button"
+                />
+    </RelativeLayout>
+</RelativeLayout>

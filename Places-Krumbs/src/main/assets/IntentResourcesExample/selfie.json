@@ -1,0 +1,90 @@
+{
+    "intents": [
+                {
+                "Admire": {
+                "synonyms": [
+                             "Admire","Like","Me",
+                             "Hot","Lawofattraction",
+                             "Photooftheday","Picoftheday",
+                             "Selfpotrait","Lovem",
+                             "Whoneedsaselfiestick","Swagger"
+                             ],
+                "unicode": "1f60d",
+                "expression_id": 1,
+                "resource_name": "emoji_1f60d"
+                }
+                },
+                {
+                "Exercise": {
+                "synonyms": [
+                             "Exercise","Workout","Weightloss",
+                             "Gymrat","Beastmode","Itspo",
+                             "Fitlife","Abs","Dedication",
+                             "Noexcuses","Weightlossjourney","Training",
+                             "Crossfit","Getfit","Fitnessaddict",
+                             "Physique","Bbg","Trainhard",
+                             "Fitnessjourney","Cardio","Bodybuilding",
+                             "Health","Fitmom","Yoga","Running",
+                             "Basketball","Fitspiration","Gym","Gymlife"
+                             ],
+                "unicode": "1f4aa",
+                "expression_id": 2,
+                "resource_name": "emoji_1f4aa"
+                }
+                },
+                {
+                "Having fun": {
+                "synonyms": [
+                             "Having fun","Thecrew","Awesometime",
+                             "Amazingfriends","Amazing","Swag"
+                             ],
+                "unicode": "1f38a",
+                "expression_id": 3,
+                "resource_name": "emoji_1f38a"
+                }
+                },
+                {
+                "Arrived": {
+                "synonyms": [
+                             "Arrived","Finally",
+                             "Justreached","Homesweethome",
+                             "Peaceout",
+                             "Travel",
+                             "Destination",
+                             "Comingsoon",
+                             "Home",
+                             "Goodbye",
+                             "Ciao",
+                             "Hastalavista",
+                             "Adios",
+                             "Aurevoir",
+                             "Bonjour",
+                             "Arrivederci",
+                             "Sayonara"
+                             ],
+                "unicode": "1f6a9",
+                "expression_id": 4,
+                "resource_name": "emoji_1f6a9"
+                }
+                },
+                {
+                "Missing you": {
+                "synonyms": [
+                             "Missing you",
+                             "Iloveyou",
+                             "Missinghim",
+                             "Missingher",
+                             "Memories",
+                             "Longdistancerelationship",
+                             "Crushquotes",
+                             "Throwback",
+                             "Heartbroken",
+                             "Bff"
+                             ],
+                "unicode": "1f622",
+                "expression_id": 5,
+                "resource_name": "emoji_1f622"
+                }
+                }
+                ]
+}

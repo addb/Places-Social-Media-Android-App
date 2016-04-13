@@ -1,0 +1,135 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="@dimen/k_circle_size"
+                android:layout_height="@dimen/k_circle_size"
+                android:background="@android:color/transparent"
+                android:id="@+id/circle_view">
+
+    <RelativeLayout
+            android:layout_width="@dimen/k_circle_flower_size"
+            android:layout_height="@dimen/k_circle_flower_size"
+            android:id="@+id/flower_layout"
+            android:visibility="visible"
+            android:background="@drawable/k_circle_flower_bg"
+            android:layout_centerInParent="true"/>
+
+    <RelativeLayout
+            android:layout_width="@dimen/k_circle_flower_size"
+            android:layout_height="@dimen/k_circle_flower_size"
+            android:id="@+id/sqr2_parent_line_holder"
+            android:visibility="visible"
+            android:rotation="-22"
+            android:layout_centerInParent="true"
+            android:background="@android:color/transparent"
+            />
+
+    <RelativeLayout
+            android:layout_width="@dimen/k_circle_sqr_size"
+            android:layout_height="@dimen/k_circle_sqr_size"
+            android:id="@+id/sqr1_parent"
+            android:rotation="25"
+            android:visibility="visible"
+            android:clickable="true"
+            android:layout_centerInParent="true">
+
+        <RelativeLayout
+                android:layout_width="@dimen/k_circle_sqr_size"
+                android:layout_height="@dimen/k_circle_sqr_size"
+                android:id="@+id/sqr1"
+                android:layout_margin="15dp"
+                android:layout_centerInParent="true"
+                android:alpha="0"
+                android:visibility="visible"
+                android:background="@drawable/rounded_corner">
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:id="@+id/sqr1_k"
+                    android:visibility="visible"
+                    android:rotation="25"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/center_k_circle"/>
+
+        </RelativeLayout>
+
+        <ImageView
+                android:layout_width="@dimen/k_circle_tag_width"
+                android:layout_height="@dimen/k_circle_tag_height"
+                android:id="@+id/loc_sqr1"
+                android:visibility="visible"
+                android:rotation="-25"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/gray_ring"
+                android:padding="@dimen/k_circle_krumbs_icon_padding"
+                android:src="@drawable/composer_place_grey"/>
+
+        <ImageView
+                android:layout_width="@dimen/k_circle_tag_width"
+                android:layout_height="@dimen/k_circle_tag_height"
+                android:id="@+id/event_sqr1"
+                android:visibility="visible"
+                android:padding="@dimen/k_circle_krumbs_icon_padding"
+                android:rotation="-25"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/gray_ring"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/composer_event_grey"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+            android:layout_width="@dimen/k_circle_sqr_size"
+            android:layout_height="@dimen/k_circle_sqr_size"
+            android:id="@+id/sqr2_parent"
+            android:rotation="-25"
+            android:clickable="false"
+            android:visibility="visible"
+            android:layout_centerInParent="true">
+
+        <RelativeLayout
+                android:layout_width="@dimen/k_circle_sqr_size"
+                android:layout_height="@dimen/k_circle_sqr_size"
+                android:id="@+id/sqr2"
+                android:alpha="0"
+                android:visibility="visible"
+                android:layout_margin="15dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/rounded_corner">
+
+            <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:id="@+id/sqr2_k"
+                    android:visibility="visible"
+                    android:rotation="25"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/center_k_circle"/>
+        </RelativeLayout>
+
+        <ImageView
+                android:layout_width="@dimen/k_circle_tag_width"
+                android:layout_height="@dimen/k_circle_tag_height"
+                android:id="@+id/people_sqr2"
+                android:visibility="visible"
+                android:rotation="25"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="2dp"
+                android:padding="@dimen/k_circle_krumbs_icon_padding"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/gray_ring"
+                android:src="@drawable/composer_people_grey"/>
+
+        <ImageView
+                android:layout_width="@dimen/k_circle_tag_width"
+                android:layout_height="@dimen/k_circle_tag_height"
+                android:id="@+id/emot_sqr2"
+                android:visibility="visible"
+                android:padding="@dimen/k_circle_krumbs_icon_padding"
+                android:layout_alignParentTop="true"
+                android:rotation="25"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/gray_ring"
+                android:src="@drawable/composer_emot_grey"/>
+    </RelativeLayout>
+</RelativeLayout>

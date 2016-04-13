@@ -1,0 +1,142 @@
+{
+    "intents": [
+                {
+                "Happy": {
+                "synonyms": [
+                             "Happy",
+                             "Delighted",
+                             "Glad",
+                             "Thrilled",
+                             "Cheerful",
+                             "Smile",
+                             "Happiness",
+                             "Fulloflife",
+                             "Sunshine",
+                             "Positive",
+                             "Enjoy",
+                             "Hope",
+                             "Inspiration",
+                             "Radiant",
+                             "Bonheur"
+                             ],
+                "unicode": "1f600",
+                "expression_id": 1,
+                "resource_name": "emoji_1f600"
+                }
+                },
+                {
+                "Upset": {
+                "synonyms": [
+                             "Upset",
+                             "Omg",
+                             "Doh",
+                             "Cheermeup",
+                             "Depressed",
+                             "Frustrated",
+                             "Dejected",
+                             "Sad",
+                             "Highsandlows",
+                             "Melancholia",
+                             "Lame",
+                             "Bummed",
+                             "Stressed",
+                             "Alone",
+                             "Sadness",
+                             "Tears",
+                             "Lonely",
+                             "Goingmental",
+                             "Badmood",
+                             "Hurt",
+                             "Anxious",
+                             "Worthless"
+                             ],
+                "unicode": "1f621",
+                "expression_id": 2,
+                "resource_name": "emoji_1f621"
+                }
+                },
+                {
+                "Love": {
+                "synonyms": [
+                             "Love",
+                             "Cute",
+                             "Blissful",
+                             "Mylove",
+                             "Loveyou",
+                             "Amor",
+                             "Monamour",
+                             "Monamie",
+                             "Loveofmylife",
+                             "Baby",
+                             "Oneinamillion",
+                             "Miamor",
+                             "Amoremio",
+                             "Loveisintheair",
+                             "Tiamo",
+                             "Monhomme",
+                             "Hunny",
+                             "Gorgeous",
+                             "Awww",
+                             "Adorable",
+                             "Pretty",
+                             "Kissyou",
+                             "Cutiepie",
+                             "Hugs",
+                             "Loverher",
+                             "Lovehim",
+                             "Fluffy",
+                             "Puppylove",
+                             "Ilovemydog",
+                             "Furbaby",
+                             "Dogoftheday",
+                             "Petoftheday"
+                             ],
+                "unicode": "1f60d",
+                "expression_id": 3,
+                "resource_name": "emoji_1f60d"
+                }
+                },
+                {
+                "Neutral": {
+                "synonyms": [
+                             "Neutral",
+                             "Whatsup?",
+                             "Chill",
+                             "Hey",
+                             "Hi",
+                             "Howdy",
+                             "Calm"
+                             ],
+                "unicode": "1f611",
+                "expression_id": 5,
+                "resource_name": "emoji_1f611"
+                }
+                },
+                {
+                "Taking notes": {
+                "synonyms": [
+                             "Taking notes",
+                             "Nametag",
+                             "Stickynotes",
+                             "Whiteboard",
+                             "Slide",
+                             "Poster",
+                             "Parkingspot",
+                             "Pricetag",
+                             "Reminder",
+                             "Art",
+                             "Doodle",
+                             "Notebook",
+                             "Plans",
+                             "Agenda",
+                             "Planner",
+                             "Writingsign"
+                             ],
+                "unicode": "1f4dd",
+                "expression_id": 4,
+                "resource_name": "emoji_1f4dd"
+                }
+                }
+                ]
+}
+

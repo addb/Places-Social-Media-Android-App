@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.opencamera\\opencamera\\1.0.2-SNAPSHOT\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main_tab.xml",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\menu\\menu_main_tab.xml"
+    }
+]

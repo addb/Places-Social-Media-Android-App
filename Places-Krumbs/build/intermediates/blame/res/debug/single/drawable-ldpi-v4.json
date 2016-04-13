@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_mixpanel_android_arrowright_faded.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-ldpi\\com_mixpanel_android_arrowright_faded.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_mixpanel_android_checkmark.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-ldpi\\com_mixpanel_android_checkmark.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_mixpanel_android_arrowright.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-ldpi\\com_mixpanel_android_arrowright.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\krumbssdk_appicon.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\src\\main\\res\\drawable-ldpi\\krumbssdk_appicon.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_mixpanel_android_arrowleft.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-ldpi\\com_mixpanel_android_arrowleft.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_mixpanel_android_arrowleft_faded.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-ldpi\\com_mixpanel_android_arrowleft_faded.png"
+    },
+    {
+        "merged": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_mixpanel_android_logo.png",
+        "source": "F:\\krumbs\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\drawable-ldpi\\com_mixpanel_android_logo.png"
+    }
+]

@@ -1,0 +1,119 @@
+{
+    "intents": [
+                {
+                "Exploring": {
+                "synonyms": [
+                             "Exploring",
+                             "Travelog",
+                             "Naturelife",
+                             "Hiking",
+                             "Wanderlust",
+                             "Lostinnature",
+                             "Adventurers",
+                             "Roughingit",
+                             "Liveauthentic",
+                             "Neverstopexploring",
+                             "Adventure",
+                             "Explore",
+                             "Letsgosomewhere",
+                             "Welltravelled",
+                             "Livefolk",
+                             "Wildernessculture",
+                             "Longtrip",
+                             "Hellyeah"
+                             ],
+                "unicode": "1f43e",
+                "expression_id": 1,
+                "resource_name": "emoji_1f43e"
+                }
+                },
+                {
+                "Relax": {
+                "synonyms": [
+                             "Relax",
+                             "Relax",
+                             "Peace",
+                             "Tranquility",
+                             "Beach",
+                             "Content",
+                             "Lifestyle",
+                             "Rest",
+                             "Holiday",
+                             "Knockout",
+                             "Lightsout",
+                             "Sleepyhead",
+                             "Sleeptime",
+                             "Passout",
+                             "Nightynight",
+                             "Bedtime",
+                             "Life",
+                             "Tired"
+                             ],
+                "unicode": "1f60e",
+                "expression_id": 2,
+                "resource_name": "emoji_1f60e"
+                }
+                },
+                {
+                "Natural Beauty": {
+                "synonyms": [
+                             "Natural Beauty",
+                             "Mothernature",
+                             "Aweinspiring",
+                             "Serene",
+                             "Meditative",
+                             "Landscape",
+                             "Wildlife",
+                             "Sunrise",
+                             "Sunset",
+                             "Moonlit",
+                             "Sky",
+                             "Blue",
+                             "Clouds",
+                             "Mountains",
+                             "Forest",
+                             "Skyscrapers",
+                             "Urbanwalk",
+                             "Funpeople"
+                             ],
+                "unicode": "1f305",
+                "expression_id": 3,
+                "resource_name": "emoji_1f305"
+                }
+                },
+                {
+                "Awesome Experience": {
+                "synonyms": [
+                             "Cool",
+                             "Formidable",
+                             "Amazing",
+                             "Heartstirring",
+                             "TrulyWonderful",
+                             "Extremely good",
+                             "Exceptional",
+                             "Epic"
+                             ],
+                "unicode": "1f44c",
+                "expression_id": 4,
+                "resource_name": "emoji_1f44c"
+                }
+                },
+                {
+                "Bored": {
+                "synonyms": [
+                             "Bored",
+                             "Homesick",
+                             "Missinghome",
+                             "Imissyou",
+                             "Stillalive",
+                             "Misshome",
+                             "Sucks",
+                             "Rainsucks"
+                             ],
+                "unicode": "1f648",
+                "expression_id": 5,
+                "resource_name": "emoji_1f648"
+                }
+                }
+                ]
+}

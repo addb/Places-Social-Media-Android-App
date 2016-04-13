@@ -1,0 +1,33 @@
+{
+
+    "Popular": {
+        "index": 4,
+        "intents_file": "popular.json"
+    },
+    "Travel": {
+        "index": 5,
+        "intents_file": "travel.json"
+    },
+    "Selfie": {
+        "index": 3,
+        "preferred_camera": "front",
+        "intents_file": "selfie.json"
+    },
+    "Food": {
+        "index": 2,
+        "preferred_location_categories": ["restaurants"],
+        "intents_file": "food.json"
+    },
+    "Social": {
+        "index": 1,
+        "intents_file": "social.json"
+    },
+    "Travel": {
+        "index": 5,
+        "intents_file": "travel.json"
+    },
+    "Shopping": {
+        "index": 6,
+        "intents_file": "shopping.json"
+    }
+}

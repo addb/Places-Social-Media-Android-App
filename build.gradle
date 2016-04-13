@@ -1,0 +1,38 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.5.0'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        def krumbs_artifactory = artifactory_host_url
+        def krumbs_username = artifactory_username
+        def krumbs_password = artifactory_password
+        maven { url ("$artifactory_host_url/libs-release-local")
+            credentials {
+                username ("$krumbs_username")
+                password ("$krumbs_password")
+            }
+        }
+        maven { url ("$artifactory_host_url/libs-snapshot-local")
+            credentials {
+                username ("$krumbs_username")
+                password ("$krumbs_password")
+            }
+        }
+    }
+}
+
+ext {
+    compileSdkVersion = 23
+    buildToolsVersion = "23.0.1"
+
+    minSdkVersion = 16
+    targetSdkVersion = 23
+}

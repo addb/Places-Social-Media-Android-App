@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <RelativeLayout
+            android:id="@+id/camera_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:gravity="center"
+            android:visibility="visible">
+        <RelativeLayout
+            android:id="@+id/camera_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:padding="5dp">
+            <ImageView
+                android:id="@+id/camera_flash_mode_image"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:contentDescription="@string/camera_switch"
+                android:src="@drawable/flash_off_untapped"
+                android:layout_alignParentLeft="true"
+                android:layout_centerHorizontal="true"/>
+
+            <TextView
+                android:id="@+id/swap_camera_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:contentDescription="@string/camera_switch"
+                android:background="@drawable/camera_top_button_background_style"
+                android:textColor="@color/white"
+                android:textStyle="normal"
+                android:textSize="25sp"
+                android:text="@string/fa_refresh"
+                android:src="@drawable/k_capture_camera"/>
+            <TextView
+                    android:id="@+id/camera_audio_rec_mode_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/audio_rec_mode"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/camera_top_button_background_style"
+                    android:layout_centerVertical="true"
+                    android:textColor="@color/white"
+                    android:textSize="25sp"
+                    android:layout_centerHorizontal="true"/>
+        </RelativeLayout>
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/intent_panel_height"
+            android:layout_alignParentBottom="true"
+            layout="@layout/intent_panel_layout" />
+    </RelativeLayout>
+    <ImageView
+            android:id="@+id/autofocusRect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"/>
+    <!--include preview layout-->
+    <RelativeLayout
+            android:id="@+id/kcamera_preview_layout_parent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="invisible">
+        <include
+                layout="@layout/kcamera_preview_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="flash_entries">
+        <item>Вспышка Выкл</item>
+        <item>Вспышка Авто</item>
+        <item>Вспышка Вкл</item>
+        <item>Фонарик</item>
+        <item>Красные глаза</item>
+    </string-array>
+    <string-array name="flash_icons">
+        <item>drawable/flash_off</item>
+        <item>drawable/flash_auto</item>
+        <item>drawable/flash_on</item>
+        <item>drawable/flash_torch</item>
+        <item>drawable/flash_red_eye</item>
+    </string-array>
+    <string-array name="flash_values">
+        <item>flash_off</item>
+        <item>flash_auto</item>
+        <item>flash_on</item>
+        <item>flash_torch</item>
+        <item>flash_red_eye</item>
+    </string-array>
+    <string-array name="focus_mode_entries">
+        <item>Автофокус</item>
+        <item>Бесконеч. фокус</item>
+        <item>Макро фокус</item>
+        <item>запертый фокус</item>
+        <item>Ручной фокус</item>
+        <item>Фиксир. фокус</item>
+        <item>EDOF фокус</item>
+        <item>Непрер. фокус</item>
+    </string-array>
+    <string-array name="focus_mode_icons">
+        <item>drawable/focus_mode_auto</item>
+        <item>drawable/focus_mode_infinity</item>
+        <item>drawable/focus_mode_macro</item>
+        <item>drawable/focus_mode_locked</item>
+        <item>drawable/focus_mode_manual</item>
+        <item>drawable/focus_mode_fixed</item>
+        <item>drawable/focus_mode_edof</item>
+        <item>drawable/focus_mode_continuous_video</item>
+    </string-array>
+    <string-array name="focus_mode_values">
+        <item>focus_mode_auto</item>
+        <item>focus_mode_infinity</item>
+        <item>focus_mode_macro</item>
+        <item>focus_mode_locked</item>
+        <item>focus_mode_manual2</item>
+        <item>focus_mode_fixed</item>
+        <item>focus_mode_edof</item>
+        <item>focus_mode_continuous_video</item>
+    </string-array>
+    <string-array name="preference_burst_interval_entries">
+        <item>Без задержки</item>
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>15 секунд</item>
+        <item>20 секунд</item>
+        <item>30 секунд</item>
+        <item>60 секунд</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+    </string-array>
+    <string-array name="preference_burst_interval_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="preference_burst_mode_entries">
+        <item>Выкл</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+        <item>5x</item>
+        <item>10x</item>
+        <item>Безгранично</item>
+    </string-array>
+    <string-array name="preference_burst_mode_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+        <item>unlimited</item>
+    </string-array>
+    <string-array name="preference_crop_guide_entries">
+        <item>Нет</item>
+        <item>1.33 (4:3)</item>
+        <item>1.5 (3:2)</item>
+        <item>1.78 (16:9)</item>
+        <item>1.85 (37:20)</item>
+        <item>2.33 (21:9)</item>
+        <item>2.35 (47:20)</item>
+        <item>2.4 (12:5)</item>
+    </string-array>
+    <string-array name="preference_crop_guide_values">
+        <item>crop_guide_none</item>
+        <item>crop_guide_1.33</item>
+        <item>crop_guide_1.5</item>
+        <item>crop_guide_1.78</item>
+        <item>crop_guide_1.85</item>
+        <item>crop_guide_2.33</item>
+        <item>crop_guide_2.35</item>
+        <item>crop_guide_2.4</item>
+    </string-array>
+    <string-array name="preference_grid_entries">
+        <item>Нет</item>
+        <item>Сетка 3х3</item>
+        <item>Сетка 4x2</item>
+    </string-array>
+    <string-array name="preference_grid_values">
+        <item>preference_grid_none</item>
+        <item>preference_grid_3x3</item>
+        <item>preference_grid_4x2</item>
+    </string-array>
+    <string-array name="preference_immersive_mode_entries">
+        <item>Выключить</item>
+        <item>Скрыть кнопки навигации</item>
+        <item>Скрыть GUI</item>
+        <item>Скрыть все</item>
+    </string-array>
+    <string-array name="preference_immersive_mode_values">
+        <item>immersive_mode_off</item>
+        <item>immersive_mode_low_profile</item>
+        <item>immersive_mode_gui</item>
+        <item>immersive_mode_everything</item>
+    </string-array>
+    <string-array name="preference_lock_orientation_entries">
+        <item>Нет</item>
+        <item>Альбомная</item>
+        <item>Портретная</item>
+    </string-array>
+    <string-array name="preference_lock_orientation_values">
+        <item>none</item>
+        <item>landscape</item>
+        <item>portrait</item>
+    </string-array>
+    <string-array name="preference_preview_size_entries">
+        <item>Макс. размер предпросмотра</item>
+        <item>Размер фото (WYSIWYG)</item>
+    </string-array>
+    <string-array name="preference_preview_size_values">
+        <item>preference_preview_size_display</item>
+        <item>preference_preview_size_wysiwyg</item>
+    </string-array>
+    <string-array name="preference_record_audio_src_entries">
+        <item>Видеокамера</item>
+        <item>Внешний микрофон (если имеется)</item>
+        <item>Default audio source</item>
+        <item>Optimised for voice</item>
+    </string-array>
+    <string-array name="preference_record_audio_src_values">
+        <item>audio_src_camcorder</item>
+        <item>audio_src_mic</item>
+        <item>audio_src_default</item>
+        <item>audio_src_voice_communication</item>
+    </string-array>
+    <string-array name="preference_rotate_preview_entries">
+        <item>"Не поворачивать"</item>
+        <item>Повернуть на 180 градусов</item>
+    </string-array>
+    <string-array name="preference_rotate_preview_values">
+        <item>0</item>
+        <item>180</item>
+    </string-array>
+    <string-array name="preference_stamp_entries">
+        <item>Без отметки</item>
+        <item>С отметками</item>
+    </string-array>
+    <string-array name="preference_stamp_values">
+        <item>preference_stamp_no</item>
+        <item>preference_stamp_yes</item>
+    </string-array>
+    <string-array name="preference_timer_entries">
+        <item>Нет</item>
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>15 секунд</item>
+        <item>20 секунд</item>
+        <item>30 секунд</item>
+        <item>60 секунд</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+    </string-array>
+    <string-array name="preference_timer_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="preference_ui_placement_entries">
+        <item>Интерфейс для левши</item>
+        <item>Интерфейс для правши</item>
+    </string-array>
+    <string-array name="preference_ui_placement_values">
+        <item>ui_left</item>
+        <item>ui_right</item>
+    </string-array>
+    <string-array name="preference_video_bitrate_entries">
+        <item>По умолчанию</item>
+        <item>100Kbit</item>
+        <item>200Kbit</item>
+        <item>500Kbit</item>
+        <item>1Mbit</item>
+        <item>2Mbit</item>
+        <item>3Mbit</item>
+        <item>4Mbit</item>
+        <item>5Mbit</item>
+        <item>6Mbit</item>
+        <item>7Mbit</item>
+        <item>8Mbit</item>
+        <item>9Mbit</item>
+        <item>10Mbit</item>
+        <item>15Mbit</item>
+        <item>20Mbit</item>
+        <item>30Mbit</item>
+        <item>40Mbit</item>
+        <item>50Mbit</item>
+        <item>60Mbit</item>
+        <item>70Mbit</item>
+        <item>80Mbit</item>
+        <item>90Mbit</item>
+        <item>100Mbit</item>
+    </string-array>
+    <string-array name="preference_video_bitrate_values">
+        <item>default</item>
+        <item>100000</item>
+        <item>200000</item>
+        <item>500000</item>
+        <item>1000000</item>
+        <item>2000000</item>
+        <item>3000000</item>
+        <item>4000000</item>
+        <item>5000000</item>
+        <item>6000000</item>
+        <item>7000000</item>
+        <item>8000000</item>
+        <item>9000000</item>
+        <item>10000000</item>
+        <item>15000000</item>
+        <item>20000000</item>
+        <item>30000000</item>
+        <item>40000000</item>
+        <item>50000000</item>
+        <item>60000000</item>
+        <item>70000000</item>
+        <item>80000000</item>
+        <item>90000000</item>
+        <item>100000000</item>
+    </string-array>
+    <string-array name="preference_video_fps_entries">
+        <item>По умолчанию</item>
+        <item>15</item>
+        <item>24</item>
+        <item>25</item>
+        <item>30</item>
+        <item>60</item>
+        <item>96</item>
+        <item>100</item>
+        <item>120</item>
+    </string-array>
+    <string-array name="preference_video_fps_values">
+        <item>default</item>
+        <item>15</item>
+        <item>24</item>
+        <item>25</item>
+        <item>30</item>
+        <item>60</item>
+        <item>96</item>
+        <item>100</item>
+        <item>120</item>
+    </string-array>
+    <string-array name="preference_video_max_duration_entries">
+        <item>Неограниченно</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>3 минут</item>
+        <item>4 минуты</item>
+        <item>5 минут</item>
+        <item>6 минут</item>
+        <item>7 минут</item>
+        <item>8 минут</item>
+        <item>9 минут</item>
+        <item>10 минут</item>
+        <item>11 минут</item>
+        <item>12 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+    </string-array>
+    <string-array name="preference_video_max_duration_values">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+        <item>300</item>
+        <item>360</item>
+        <item>420</item>
+        <item>480</item>
+        <item>540</item>
+        <item>600</item>
+        <item>660</item>
+        <item>720</item>
+        <item>900</item>
+        <item>1200</item>
+        <item>1500</item>
+        <item>1800</item>
+        <item>2700</item>
+        <item>3600</item>
+    </string-array>
+    <string-array name="preference_video_restart_entries">
+        <item>Не перезагружать</item>
+        <item>Повторить 1 раз</item>
+        <item>Повторить 2 раза</item>
+        <item>Повторить 3 раза</item>
+        <item>Повторить 4 раза</item>
+        <item>Повторить 5 раз</item>
+        <item>Повторить 6 раз</item>
+        <item>Повторить 7 раз</item>
+        <item>Повторить 8 раз</item>
+        <item>Повторить 9 раз</item>
+        <item>Повторить 10 раз</item>
+    </string-array>
+    <string-array name="preference_video_restart_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="preference_volume_keys_entries">
+        <item>Сделать фото (или запустить/остановить запись видео)</item>
+        <item>Фокус</item>
+        <item>Увеличить/уменьшить масштаб</item>
+        <item>Изменить уровень экспозиции</item>
+        <item>Авто стабилизация вкл/выкл</item>
+        <item>Изменить громкость</item>
+        <item>Ничего</item>
+    </string-array>
+    <string-array name="preference_volume_keys_values">
+        <item>volume_take_photo</item>
+        <item>volume_focus</item>
+        <item>volume_zoom</item>
+        <item>volume_exposure</item>
+        <item>volume_auto_stabilise</item>
+        <item>volume_nothing</item>
+        <item>volume_really_nothing</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about_available">Доступно</string>
+    <string name="about_copy_to_clipboard">Копировать в буфер</string>
+    <string name="about_not_available">Не доступно</string>
+    <string name="about_ok">ОК</string>
+    <string name="action_popup">Настройки всплывающих окон</string>
+    <string name="action_settings">Настройки</string>
+    <string name="angle">Угол</string>
+    <string name="answer_no">Нет</string>
+    <string name="answer_yes">Да</string>
+    <string name="app_name">Open Camera</string>
+    <string name="audio_disabled">Аудио отключено</string>
+    <string name="auto_stabilise_not_supported">"К сожалению, авто-стабилизация не
+поддерживается на данном устройстве"</string>
+    <string name="back_camera">Задняя камера</string>
+    <string name="cancelled_burst_mode">Режим серийной съемки отменен</string>
+    <string name="cancelled_timer">Таймер отменен</string>
+    <string name="cant_access_folder">Не удается получить доступ к этой папке</string>
+    <string name="cant_write_folder">Невозможно записать в эту папку</string>
+    <string name="changed_save_location">Папка сохранения изменена на:</string>
+    <string name="choose_another_folder">Выбрать другую папку</string>
+    <string name="choose_save_location">Выберите папку сохранения:</string>
+    <string name="clear_folder_history">Очистить историю папки</string>
+    <string name="clear_folder_history_question">Очистить историю папки?</string>
+    <string name="color_effect">Цветовой эффект</string>
+    <string name="com_mixpanel_android_close">Закрыть</string>
+    <string name="com_mixpanel_android_done">Готово</string>
+    <string name="com_mixpanel_android_exit">Завершить</string>
+    <string name="com_mixpanel_android_logo">By Mixpanel</string>
+    <string name="com_mixpanel_android_next">Следующий вопрос</string>
+    <string name="com_mixpanel_android_no_thanks">Нет, спасибо</string>
+    <string name="com_mixpanel_android_notification_image">Image not displayed</string>
+    <string name="com_mixpanel_android_previous">Предыдущий вопрос</string>
+    <string name="com_mixpanel_android_sure">Конечно!</string>
+    <string name="com_mixpanel_android_survey_prompt_dialog_message">Примите участие в небольшом опросе?</string>
+    <string name="com_mixpanel_android_survey_prompt_dialog_title">Нам важна обратная связь</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"Сервисы Google Play, необходимые для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", сейчас недоступны. Обратитесь за помощью к разработчику."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"Этого аккаунта нет на устройстве. Выберите другой."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"Недействительный аккаунт"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"Для работы с Google Play требуется подключение к сети передачи данных."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"Ошибка сети"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"У вашего профиля нет доступа к аккаунтам."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"Профиль с ограниченным доступом"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"При входе в указанный аккаунт произошла ошибка. Выберите другой."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"Ошибка входа"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Если проблема не исчезнет, обратитесь к разработчику."</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", не поддерживаются на вашем устройстве. Обратитесь к производителю."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Сервисы Google Play"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется обновить сервисы Google Play."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Обновление сервисов Google Play…"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"Войти"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string name="direction">Направление</string>
+    <string name="enter_new_folder">Введите имя новой папки</string>
+    <string name="exposure">Экспозиция</string>
+    <string name="exposure_compensation">Компенсация экспозиции</string>
+    <string name="exposure_lock">Блокировка экспозиции</string>
+    <string name="exposure_locked">Экспозиция заблокирована</string>
+    <string name="exposure_unlocked">Экспозиция разблокирована</string>
+    <string name="failed_create_folder">Не удалось создать папку</string>
+    <string name="failed_to_auto_stabilise">Не удалось стабилизировать</string>
+    <string name="failed_to_open_camera_1">Не удалось открыть камеру.</string>
+    <string name="failed_to_open_camera_2">Камера может быть использована</string>
+    <string name="failed_to_open_camera_3">другим приложением?</string>
+    <string name="failed_to_reconnect_camera">Не удалось подключиться к камере</string>
+    <string name="failed_to_record_video">Не удалось записать видео</string>
+    <string name="failed_to_save_image">Не удалось сохранить файл изображения</string>
+    <string name="failed_to_save_photo">Не удалось сохранить фото</string>
+    <string name="failed_to_save_video">Не удалось сохранить видеофайл</string>
+    <string name="failed_to_stamp">Не удалось добавить отметку</string>
+    <string name="failed_to_start_camera_preview">Не удалось запустить предпросмотр</string>
+    <string name="failed_to_take_picture">Не удалось сфотографировать</string>
+    <string name="flash_mode">Вспышка</string>
+    <string name="focus_mode">Фокус</string>
+    <string name="folder_exists">Папка уже существует</string>
+    <string name="free_memory">Память</string>
+    <string name="front_camera">Фронтальная камера</string>
+    <string name="gallery">Галерея</string>
+    <string name="intro_ok">Ок</string>
+    <string name="intro_text">"Нажмите фокус и выберите синюю кнопку, чтобы сделать фото.
+
+В настройках вас ждет очень много плюшек. :)
+
+(Это сообщение больше не появится.)"</string>
+    <string name="location_not_available">Местоположение недоступно</string>
+    <string name="max_duration">Макс. продолжительность</string>
+    <string name="metres_abbreviation">m</string>
+    <string name="new_folder">Новая папка</string>
+    <string name="no_gallery_app">Галерея недоступна</string>
+    <string name="not_supported">Не поддерживается на вашем устройстве</string>
+    <string name="off">Выкл</string>
+    <string name="on">Вкл</string>
+    <string name="parent_folder">Родительская папка</string>
+    <string name="photo">Фото</string>
+    <string name="photo_deleted">Фотография удалена</string>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"Очистить окно поиска"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"Поиск"</string>
+    <string name="preference_about">О программе</string>
+    <string name="preference_about_summary">Информация</string>
+    <string name="preference_auto_stabilise">Авто стабилизация</string>
+    <string name="preference_auto_stabilise_summary">Изображение будет стабилизироваться. Не рекомендуется на слабых устройствах</string>
+    <string name="preference_burst_interval">Интервал в пакетном режиме</string>
+    <string name="preference_burst_interval_summary">Задержка между снятием фото</string>
+    <string name="preference_burst_mode">Пакетный режим</string>
+    <string name="preference_burst_mode_summary">Съёмка нескольких фото подряд</string>
+    <string name="preference_category_camera_controls">Управление</string>
+    <string name="preference_category_camera_effects">Эффекты</string>
+    <string name="preference_category_camera_quality">Качество фото и видео</string>
+    <string name="preference_category_online">Разное</string>
+    <string name="preference_color_effect">Цветовой эффект</string>
+    <string name="preference_color_effect_summary">Применение выбранного эффекта на фото</string>
+    <string name="preference_crop_guide">Руководство по обрезке</string>
+    <string name="preference_crop_guide_summary">Отображение прямоугольника, показывающего соотношение сторон - полезно, если вы планируете, обрезать фото/видео. Требуется WYSIWYG режим фотосъемки или режим видео.</string>
+    <string name="preference_donate">Пожертвовать</string>
+    <string name="preference_donate_summary">Если вам нравится это приложение, киньте мне копейку. Вы можете сделать это, купив мое приложение. Спасибо!</string>
+    <string name="preference_exposure">Компенсация экспозиции</string>
+    <string name="preference_exposure_summary">Значение 0 для компенсации экспозиции по умолчанию</string>
+    <string name="preference_face_detection">Распознавание лиц</string>
+    <string name="preference_face_detection_summary">Распознавание лица в объективе</string>
+    <string name="preference_force_video_4k">Качество видео 4K UHD (экспериментально)</string>
+    <string name="preference_force_video_4k_summary">При выборе разрешения (3840х2160) для записи через заднюю камеру, это будет работать только, если ваше устройство поддерживает данный формат!</string>
+    <string name="preference_free_memory">Показать свободную память</string>
+    <string name="preference_free_memory_summary">Отображение количества свободной памяти</string>
+    <string name="preference_gps_direction">Хранить направление компаса</string>
+    <string name="preference_gps_direction_summary">Хранить данные о направлении компаса в фотографиях</string>
+    <string name="preference_grid">Показать сетку</string>
+    <string name="preference_grid_summary">Отображение одной из различных сеток</string>
+    <string name="preference_immersive_mode">Режим погружения</string>
+    <string name="preference_immersive_mode_summary">Опции для \"режима погружения\"</string>
+    <string name="preference_iso">Установка ISO</string>
+    <string name="preference_iso_summary">Более высокое значение означает большую чувствительность к свету (может не работать на некоторых устройствах)</string>
+    <string name="preference_location">Хранить данные о местоположении (Geotagging)</string>
+    <string name="preference_location_summary">Хранить данные о местоположении в фотографиях</string>
+    <string name="preference_lock_orientation">Блокировка ориентации фото/видео</string>
+    <string name="preference_lock_orientation_summary">Игнорирование системной ориентации экрана устройства.</string>
+    <string name="preference_lock_video">Блокировать экран при записи видео</string>
+    <string name="preference_lock_video_summary">При записи видео, графический интерфейс будет заблокирован для предотвращения случайной остановки записи. Проведите по экрану, чтобы разблокировать. Обратите внимание, что запись видео остановится, если приложение перейдет в фоновый режим или погаснет экран.</string>
+    <string name="preference_max_brightness">Максимальная яркость</string>
+    <string name="preference_max_brightness_summary">Включение максимальной яркости во время съемки</string>
+    <string name="preference_online_help">Онлайн помощь</string>
+    <string name="preference_pause_preview">Пауза после съёмки</string>
+    <string name="preference_pause_preview_summary">Пауза после снятия фото, с возможностью поделиться или удалить фотографию</string>
+    <string name="preference_preview_size">Размер предпросмотра</string>
+    <string name="preference_preview_size_summary">Выбор размера предпросмотра</string>
+    <string name="preference_quality">Качество изображения</string>
+    <string name="preference_quality_summary">Выбор качества фотографий (рекомендуется 90%%)</string>
+    <string name="preference_record_audio">Запись звука</string>
+    <string name="preference_record_audio_src">Источник звука</string>
+    <string name="preference_record_audio_src_summary">Микрофон для записи звука</string>
+    <string name="preference_record_audio_summary">Запись звука при записи видео</string>
+    <string name="preference_require_location">Требовать данные о местоположении</string>
+    <string name="preference_require_location_summary">Если данные о местоположении включены, вы сможете снять фото/видео только, если они доступны</string>
+    <string name="preference_reset">Сброс настроек</string>
+    <string name="preference_reset_question">Сбросить все настройки Open Camera на стандартные значения?</string>
+    <string name="preference_reset_summary">Сброс всех настроек Open Camera на стандартные значения</string>
+    <string name="preference_resolution">Разрешение камеры</string>
+    <string name="preference_resolution_summary">"Выбор  разрешения фотографий, снятых на камеру"</string>
+    <string name="preference_rotate_preview">Поворот превью</string>
+    <string name="preference_rotate_preview_summary">"Возможность поворота превью (не повлияет на фото/видео)"</string>
+    <string name="preference_save_location">Папка сохранения</string>
+    <string name="preference_save_location_summary">Имя папки для сохранения фото и видео (также может быть полный путь)</string>
+    <string name="preference_scene_mode">Сцена</string>
+    <string name="preference_scene_mode_summary">Оптимизация фото для различных сцен</string>
+    <string name="preference_screen_camera_controls_more">Дополнительные настройки</string>
+    <string name="preference_screen_gui">Настройки отображения</string>
+    <string name="preference_show_angle">Показать угол</string>
+    <string name="preference_show_angle_line">Показать угол линии</string>
+    <string name="preference_show_angle_line_summary">Отображение горизонтальной линии уровня</string>
+    <string name="preference_show_angle_summary">Отображение текущего угла ориентации на экране</string>
+    <string name="preference_show_battery">Показать батарею</string>
+    <string name="preference_show_battery_summary">Отображение текущего уровня заряда батареи</string>
+    <string name="preference_show_geo_direction">Показать направление компаса</string>
+    <string name="preference_show_geo_direction_summary">Отображение направления компаса на экране</string>
+    <string name="preference_show_time">Показать время</string>
+    <string name="preference_show_time_summary">Отображение текущего времени на экране</string>
+    <string name="preference_show_when_locked">Камера на экране блокировки</string>
+    <string name="preference_show_when_locked_summary">Если включено, то Open Camera все равно будет отображаться поверх любого экрана блокировки (вы можете получить доступ к настройкам, галереи и т.д.)</string>
+    <string name="preference_show_zoom">Показать масштаб</string>
+    <string name="preference_show_zoom_controls">Показать (+/-) на экране</string>
+    <string name="preference_show_zoom_controls_summary">Отображение (+/-) кнопок управления масштабом</string>
+    <string name="preference_show_zoom_slider_controls">Ползунок масштабирования</string>
+    <string name="preference_show_zoom_slider_controls_summary">Отображение ползунка для управления зумом</string>
+    <string name="preference_show_zoom_summary">Отображение текущего уровня масштабирования камеры на экране (при увеличении масштаба)</string>
+    <string name="preference_shutter_sound">Звук затвора</string>
+    <string name="preference_shutter_sound_summary">Воспроизведение звука при съемке фотографии (требуется Android 4.2+ для отключения)</string>
+    <string name="preference_stamp">Отметки</string>
+    <string name="preference_stamp_summary">Сохранение вместе с фотографий таких данных как: дата/время/местоположение</string>
+    <string name="preference_thumbnail_animation">Показать эскиз анимации</string>
+    <string name="preference_thumbnail_animation_summary">Отображение перемещение эскиза анимации при съемке фотографии</string>
+    <string name="preference_timer">Таймер</string>
+    <string name="preference_timer_beep">Звук таймера</string>
+    <string name="preference_timer_beep_summary">Подавать звуковой сигнал, когда таймер закончит отсчет</string>
+    <string name="preference_timer_summary">Установка таймера для камеры</string>
+    <string name="preference_ui_placement">Интерфейс</string>
+    <string name="preference_ui_placement_summary">Пользовательский интерфейс для правши/левши</string>
+    <string name="preference_video_bitrate">Видео битрейт (примерно)</string>
+    <string name="preference_video_bitrate_summary">Выбор битрейта видео (чем выше, тем лучше качество, но файл будет занимать больше места на флешке. Неподдерживаемый битрейт может стать причиной ошибки при записи видео)</string>
+    <string name="preference_video_flash">Вспышка во время записи видео</string>
+    <string name="preference_video_flash_summary">Если включено, вспышка будет включаться/выключаться при записи видео (можно использовать, чтобы выполнить запись на расстоянии).</string>
+    <string name="preference_video_fps">Частота кадров видео (примерно)</string>
+    <string name="preference_video_fps_summary">Кол-во кадров в секунду (FPS) в видео (примерное, и может привести к записи с ошибкой, если частота кадров не поддерживается)</string>
+    <string name="preference_video_max_duration">Максимальная длительность видео</string>
+    <string name="preference_video_max_duration_summary">Видеозапись прекратится по истечении указанной продолжительности.</string>
+    <string name="preference_video_restart">Записать новое видео после достижения лимита</string>
+    <string name="preference_video_restart_summary">При достижении лимита продолжительности, будет записано новое видео. (столько раз, сколько вы выбрали)</string>
+    <string name="preference_video_stabilization">Включить стабилизацию видео</string>
+    <string name="preference_video_stabilization_summary">Стабилизация видео уменьшает тряску в связи с движением камеры</string>
+    <string name="preference_volume_keys">Клавиши громкости</string>
+    <string name="preference_volume_keys_summary">Задать поведение при нажатии клавиш громкости</string>
+    <string name="preference_white_balance">Баланс белого</string>
+    <string name="preference_white_balance_summary">Параметр для настройки баланса белого</string>
+    <string name="repeats_to_go">repeats to go</string>
+    <string name="scene_mode">Сцена</string>
+    <string name="screen_is_locked">"Экран заблокирован
+проведите пальцем по экрану,
+чтобы разблокировать"</string>
+    <string name="screen_lock_message_1">[Заблокировано:</string>
+    <string name="screen_lock_message_2">Проведите по экрану, чтобы разблокировать]</string>
+    <string name="share">Поделиться</string>
+    <string name="sorry">К сожалению</string>
+    <string name="started_recording_video">Запись видео</string>
+    <string name="started_timer">Таймер</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stopped_recording_video">Запись остановлена</string>
+    <string name="switch_camera">Выключатель камеры</string>
+    <string name="switch_video">Переключение видео</string>
+    <string name="take_photo">Делай фото</string>
+    <string name="taking_photo">Снимок</string>
+    <string name="trash">Удалить последний снимок</string>
+    <string name="unlocked">Разблокировано</string>
+    <string name="use_folder">Использовать папку</string>
+    <string name="video">Видео</string>
+    <string name="video_error_server_died">Сервер умер, видео остановлено</string>
+    <string name="video_error_unknown">Неизвестная ошибка, видео остановлено</string>
+    <string name="video_max_duration">Видео достигло максимальной продолжительности</string>
+    <string name="video_max_filesize">Видео достигло максимального размера</string>
+    <string name="video_may_be_corrupted">Ошибка, видеофайл может быть поврежден</string>
+    <string name="video_quality">Разрешение видео</string>
+    <string name="video_quality_summary">Выбор разрешения видео</string>
+    <string name="white_balance">Баланс белого</string>
+    <string name="zoom">Масштаб</string>
+</resources>
